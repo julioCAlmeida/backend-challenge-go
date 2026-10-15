@@ -1,0 +1,17 @@
+# Segredos e configuração local
+.env
+
+# Resultados do teste de carga
+test/load/results/
+demo.sh
+
+# Binários e saídas de build do Go
+/bin/
+*.exe
+*.test
+*.out
+
+# IDE e sistema
+.vscode/
+.idea/
+.DS_Store
